@@ -82,7 +82,7 @@ strong{
 .attribution { margin-top: 1rem; font-size: 11px; text-align: center; }
 .attribution a { color: hsl(0, 150%, 10%); }
 
-@media (max-width: 700px) , (min-widht: 701px) {
+@media (max-width: 700px) , (min-width: 701px) {
   body{
       background-position: left -601px top -480px, right -554px bottom -455px;
   }
